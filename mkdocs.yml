@@ -1,0 +1,17 @@
+site_name: Aplicação de redes de computadores
+site_author: Rickson Rocha
+site_name: Rickson-Rocha/apr-2023-2
+repo_url: https://rickson-rocha.github.io/apr-2023-2/
+theme:
+  name: material
+  language: pt
+
+nav: 
+ - index.md
+ - papel.md
+ - pedra.md
+ - tesoura.md
+ - Ensaios:
+    - ensaios/mermaid.md
+plugins:
+  - mermaid2
